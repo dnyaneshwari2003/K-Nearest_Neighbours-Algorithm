@@ -1,4 +1,4 @@
-# K-Nearest_Neighbours-Algorithm (KNN)
+# K-Nearest-Neighbours-Algorithm (KNN)
 ## Overview
 This project demonstrates the implementation of K-Nearest Neighbors (KNN) and Weighted KNN algorithms from scratch (without using libraries) on the Iris dataset.
 
